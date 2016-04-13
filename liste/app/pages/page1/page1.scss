@@ -1,0 +1,106 @@
+.page1 {
+		
+	.toolbar-background{
+	
+		background: black;
+	 background-repeat: no-repeat;
+	background-size: 100% ;
+	border-style:none
+	
+
+		}
+		
+		ion-icon{
+		color:white;
+	
+		}
+		
+		
+		
+		
+	.toolbar-title{
+	color:white;
+     text-align: center;
+		font-size:30px;
+	
+	}
+		
+
+
+	ion-content ion-card ion-item.advanced-trans p {
+	  color: #fff;
+	
+	}
+	ion-content{
+	background: black;
+ background-repeat: no-repeat;
+	background-size: 100% 100%;
+	}
+	ion-card{
+		border-radius:10px;
+	width:80%;
+	margin:0 auto;
+	margin-top : 20px;
+
+	}
+	ion-card p.advanced-background-subtitle {
+	  font-size: 1.0em;
+	  position: absolute;
+	  top: 48%;
+	  width: 100%;
+	  color: #fff !important;
+	}
+
+	.advanced-background {
+	  position: relative;
+	  text-align: center !important;
+	}
+
+	ion-card ion-item.advanced-trans.item {
+	  position: absolute;
+	  top: 0;
+	  width: 100%;
+	  padding: 12px 20px !important;
+	  background: transparent;
+	}
+	ion-card ion-item.advanced-trans.item p {
+	  font-size: 12px;
+	  letter-spacing: 1.7px;
+	  font-weight: 500;
+	  opacity: 0.7;
+	}
+
+	ion-card p.advanced-background-title {
+	  position: absolute;
+	  top: 32%;
+	  font-size: 2.0em;
+	  width: 100%;
+	  font-weight: bold;
+	  color: #fff !important;
+	}
+
+	ion-card p.advanced-background-title-large {
+	  top: 29%;
+	  font-weight: normal;
+	  font-size: 4.4em;
+	  color: #fff !important;
+	}
+	ion-card p.advanced-background-title-large span {
+	  vertical-align: top;
+	  padding-top: 5px;
+	  font-size: 72px;
+	  height: 74px;
+	  line-height: 1;
+	  display: inline-block;
+	}
+	img{
+	
+
+	max-height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+
+	}
+	
+
+}
